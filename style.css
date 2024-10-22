@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+body{
+    text-align: center;
+    background-color: white;
+    border: dotted 2px gray;
+    font-weight: bold;
+}
+
+table {
+    border-collapse: collapse;
+    border: solid 1px black;
+    width: 350px;
+}
+
+p{
+    font-size: large;
+}
+
+.kaisuu{
+    font-size: small;
+}
+.right-align {
+    text-align: right;
+    padding-right: 15px;
+    font-family: "Just Me Again Down Here", cursive;
+    font-weight: lighter;
+    font-style: italic;
+    font-size: large;
+    letter-spacing: 3px;
+}
